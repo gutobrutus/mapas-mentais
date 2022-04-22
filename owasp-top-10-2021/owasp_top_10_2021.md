@@ -5,7 +5,7 @@
 - Ela está presente em vários locais através da denominação de capítulos. Por exemplo, capítulo OWASP Brasília.
 
 ## OWASP TOP 10 - 2021
-### Introdução <!-- fold -->
+### Introdução 
 - É um documento feito por especialistas.
 - Lista os 10 riscos mais críticos à segurança - apps Web. OS MAIS CRÍTICOS, Não todos!
 - Esses riscos são listados por ordem de importância.
