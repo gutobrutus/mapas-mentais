@@ -5,16 +5,16 @@
 - Ela está presente em vários locais através da denominação de capítulos. Por exemplo, capítulo OWASP Brasília.
 
 ## OWASP TOP 10 - 2021
-### Introdução
+### Introdução <!-- fold -->
 - É um documento feito por especialistas.
 - Lista os 10 riscos mais críticos à segurança - apps Web. OS MAIS CRÍTICOS, Não todos!
 - Esses riscos são listados por ordem de importância.
 - Os riscos são revisados a cada 3 anos, em média.
 
-### TOP 10 - 2017 x TOP 10 - 2021
+### TOP 10 - 2017 x TOP 10 - 2021 <!-- fold -->
 - [Diferenças](https://owasp.org/Top10/#whats-changed-in-the-top-10-for-2021)
 
-### A01:2021 Broken Access Control
+### A01:2021 Broken Access Control <!-- fold -->
 
 #### Descrição
 - Diz respeito à implementação falha/inadequada de controle de acesso, durante o desenvolvimento.
@@ -40,9 +40,9 @@
 - Use mecanimos de rate limit em APIs. Evita-se ferramentas automatizadas.
 - Invalide sessões após logout do usuário.
 
-#### [Documentação](https://owasp.org/Top10/A01_2021-Broken_Access_Control/)
+#### [Documentação](https://owasp.org/Top10/A01_2021-Broken_Access_Control/) 
 
-### A02:2021 Cryptographic Failures
+### A02:2021 Cryptographic Failures <!-- fold -->
 #### Descrição
 - Relacionada à quebra de sigilo de dados (em repouso/em trânsito).
 - Resultado de um algoritmo fraco.
@@ -69,7 +69,7 @@
 
 #### [Documentação](https://owasp.org/Top10/A02_2021-Cryptographic_Failures/)
 
-### A03:2021 Injection
+### A03:2021 Injection <!-- fold -->
 #### Descrição
 - A app permite que o usuário entre com códigos/comandos com sucesso (*SQL*, *Shell*, *LDAP*, etc).
 - Ainda há muitas apps vulneráveis, ainda que seja simples evitar.
@@ -90,7 +90,7 @@
 
 #### [Documentação](https://owasp.org/Top10/A03_2021-Injection/)
 
-### A04:2021 Insecure Design
+### A04:2021 Insecure Design <!-- fold -->
 #### Descrição
 - É uma categoria nova!
 - Ampla abrangência focada em riscos relacionados às falhas de arquitetura.
@@ -113,7 +113,7 @@
 
 #### [Documentação](https://owasp.org/Top10/A04_2021-Insecure_Design/)
 
-### A05:2021 Security Misconfiguration
+### A05:2021 Security Misconfiguration <!-- fold -->
 #### Descrição
 - Erros/falta de configuração.
 - Configuração padrão é colocada em produção, juntamente com a ausência de *hardening*.
@@ -139,7 +139,7 @@
 - Automatizar a implementação de medidas de segurança nos servidores.
 #### [Documentação](https://owasp.org/Top10/A05_2021-Security_Misconfiguration/)
 
-### A06:2021 Vulnerable and Outdated Components
+### A06:2021 Vulnerable and Outdated Components <!-- fold -->
 #### Descrição
 - Uso de componentes na app desatualizados e/ou que possuam vulnerebilidades.
 - Ocorre quando se confiar "cegamente" em códigos de terceiros.
@@ -170,7 +170,7 @@
 
 #### [Documentação](https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/)
 
-### A07:2021 Identification and Authentication Failures
+### A07:2021 Identification and Authentication Failures <!-- fold -->
 #### Descrição
 - É a antiga categoria *Broken Authentication*.
 - Quando uma App falha no processo de confirmação de identidade e autorização do usuário.
@@ -201,7 +201,7 @@
 
 #### [Documentação](https://owasp.org/Top10/A07_2021-Identification_and_Authentication_Failures/)
 
-### A08:2021 Software and Data Integrity Failures
+### A08:2021 Software and Data Integrity Failures <!-- fold -->
 #### Descrição
 - Nova categoria.
 - A ***A8:2017 Insecure Deserialization*** foi integrada nessa.
@@ -230,7 +230,7 @@
 
 #### [Documentação](https://owasp.org/Top10/A08_2021-Software_and_Data_Integrity_Failures/)
 
-### A09:2021 Security Logging and Monitoring Failures
+### A09:2021 Security Logging and Monitoring Failures <!-- fold -->
 #### Descrição
 - É quando uma app falha no correto monitoramento e análise de *logs*.
 - Anteriormente denominada de ***A10:2017-Insufficient Logging & Monitoring***.
@@ -256,8 +256,8 @@
 
 #### [Documentação](https://owasp.org/Top10/A09_2021-Security_Logging_and_Monitoring_Failures/)
 
-### A10:2021 Server-Side Request Forgery (SSRF)
-#### Descrição
+### A10:2021 Server-Side Request Forgery (SSRF) <!-- fold -->
+#### Descrição 
 - Nova categoria!
 - Quando permite que um atacante force a App a realizar requests para domínios arbitrários.
 
