@@ -1,5 +1,7 @@
 # Normativos CNJ - Segurança Cibernética
 
+## [Portaria CNJ 162/2021](https://atos.cnj.jus.br/files/original1355352021061460c75fd70e87f.pdf)
+
 ## [Resolução 396/2021](https://atos.cnj.jus.br/files/original12260820210924614dc3e072cca.pdf)
 - Institui a Estratégia Nacional de Segurança Cibernética do Poder Judiciário (ENSEC-PJ)
 - Inclui todos órgãos do Poder Judiciário, exceto o STF
@@ -36,5 +38,37 @@
   - Elevar nível de segurança de infra. críticas
   - Estabeler rede de coop. do PJ em CyberSec
   - Estabelecer modelo central de governança cibernética nacional
-
-## [Portaria CNJ 162/2021](https://atos.cnj.jus.br/files/original1355352021061460c75fd70e87f.pdf)
+  - Permitir manutenção e a continuidade dos serviços
+  - Permitir restabelecimento no menor tempo possível
+  - De acordo com recomendação do CNJ:
+    - Estabelecer Sistema de Gestão em Sec. Info. baseado em riscos
+  - Para elevar nível de Sec. Info. em infra. críticas, deve-se: <!-- fold -->
+    - Estabelecer todas as ações com vista a maior eficiência 
+      - Resposta a incidentes!
+    - Instituir e manter ETIR
+    - Elaborar e aplicar processo de resposta e tratamento a incidentes
+      - Contendo, dentre outros, procedimeno de continuidade e rápido restabelecimento e
+      - Comunicação interna e externa
+    - Utilizar tec. que permita inteligência em ameaças cibernéticas:
+      - em redes de informação, fóruns, iniciativa privada e comunidades.
+    - Providenciar backups atualizados e segregados de forma automática
+      - A cópia de segurança (formato) deve permitir investigação de incidentes
+    - Elaborar requisitos específicos de CyberSec para todos os ativos (até mesmos portáteis, celulares)
+    - Elaborar req. espec. de CyberSec relacionados ao trabalho remoto
+    - Adotar práticas de CyberSec no desenv. de novos projetos, a exemplo de 2FA
+    - Semestralmente, no mínimo, avaliar e testar conformidade em CyberSec
+      - Deve-se aferir a eficácia dos controles estabelecidos
+    - Realizar prática em gestão de incidentes
+    - Aprimoramento contínuo de processo de gestão de incidentes
+    - Trocar informações com demais membros  do PJ e demais instituições
+- Modelo Centralizado de Governança <!-- fold -->
+  - Modelo Centralizado de Governança Nacional da Segurança Cibernética do Poder Jud.
+  - Coordenação de ações para viabilizar a governança é do CNJ
+  - O modelo tem como objetivos:
+    - Promover e coordenar os diversos entes relacionados a CyberSec
+    - Análise conjunta do nível de maturidade em CyberSec do PJ
+    - Estabelecer e desenvolver um padrão unificado de maturidade em CyberSec
+    - Estabeler rotinas de verificações de conformidade em CyberSec
+    - Possibilitar a convergência de esforços e iniciativas:
+      - Na apuração de incidentes
+      - Na promoção de ações de capacitação e educação em CyberSec
