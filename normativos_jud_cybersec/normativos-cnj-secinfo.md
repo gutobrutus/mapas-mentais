@@ -72,3 +72,126 @@
     - Possibilitar a convergência de esforços e iniciativas:
       - Na apuração de incidentes
       - Na promoção de ações de capacitação e educação em CyberSec
+- CGSI-PJ <!-- fold -->
+  - Comitê Gestor de Segurança da Informação do Poder Judiciário
+  - Tem a atribuição de assessorar o CNJ nas atividades de SegInfo
+  - Coordenado por um representante do CNJ, designado pela Presi-CNJ
+  - Integrantes (12): <!-- fold -->
+    - 2 esp. representantes do CNJ
+    - 2 esp. representantes do STF
+    - 1 esp. representante do STJ
+    - 1 esp. representante do TSE
+    - 1 esp. representante do TST
+    - 1 esp. representante do CSJT
+    - 1 esp. representante do CJF
+    - 1 esp. representante do STM
+    - 2 esp. representantes dos TJ
+  - As indicações são do Presi-CNJ
+  - Poderão ser convidados pelo CGSI representantes de outros órgãos
+  - Os integrantes devem ter conhecimento técnico em SegInfo
+  - Reuni-se semestralmente ordinariamente
+  - Reuni-se extraordinariamente por convocação do coordenador
+  - Compete ao CGSI em assessoria ao CNJ:
+    - Aprovar:
+      - Políticas, diretrizes, estratégias, normas e recomendações
+    - Estabelecer normas sobre:
+      - Requisitos metodológicos para gestão de risco
+      - Criação e funcionamento do CPTRIC-PJ
+        - Centro de Prevenção, Tratamento e Resposta a Incidentes Cibernéticos do PJ
+    - Estabelecer:
+      - Critérios de monitoramento e valiação de PSEC-PJ
+    - Promover troca de informações 
+- Rede Nacional de Cooperação <!-- fold -->
+  - Rede Nacional de Cooperação do Poder Judiciário na Área de Segurança da Informação
+  - Objetivos: <!-- fold -->
+    - Promover ambiente colaborativo entre órgãos do PJ
+    - Estimular compartilhamento de informações sobre incidentes e vulns.
+    - Realizr exercícios cibernéticos
+    - Fortalecer o CPTRIC-PJ
+    - Aperfeiçoar a estrutura para aprimorar investigações de crimes cibernéticos
+    - Incentivar a criação e atuação dos ETIR
+    - Ampliar parcerias entreos demais poderes e órgãos do poder público e setor privado
+    - Para cumprir os objetivos, os órgãos do PJ devem reportar incidentes ao CPTRIC-PJ
+  - Compete a cada órgão do PJ, exceto ao STF: <!-- fold -->
+    - Implementer, no que lhe couber, a PSEC-PJ
+    - Elaborar Política de SegInfo e normas internas, observando as normas do CNJ
+    - Destinar orçamento específico para SegInfo
+    - Promover capacitação dos recursos humanos em SegInfo
+    - Instituir e implementar ETIR, compondo a rede do CPTRIC-PJ
+    - Coordenar e Executar ações de SegInfo
+    - Aplicar ações corretivas e disciplinares nos casos de violação da SegInfo
+    - Constituir um CGSI
+      - O CGSI local deverá ser coordenado pela autoridade responsável por SegInfo
+    - Deverá constituir estrutura de SegInfo:
+      - Subordinada diretamente à alta gestão
+      - Desvinculada a ára de TIC
+      - O titular da estrutura será o gestor de SegInfo
+- PSEC-PJ <!-- fold -->
+  - Política de Segurança Cibernética do Poder Judiciário
+  - Princípios: <!-- fold -->
+    - Segurança jurídica
+    - Respeito e promoção aos direitos humanos em especial:
+      - Proteção e privacidade dos dados
+      - Acesso à informação
+    - Visão abrangente e sistemica de CyberSec
+    - Integraçao, cooperação e intecâmbio científico e tecnológico
+    - Eucação e inovação como alicerce para fomento de cultura CyberSec
+    - Orientação à gestão de riscos e SegInfo
+    - Prevenção, tratamento e resposta a incidentes
+    - Articulação entre ações de CyberSec e proteção de dados e ativos de informação
+    - Garantia ao sigilo de informações imprescindíveis:
+      - À segurança da sociedade e do Estado
+      - Inviolabilidade da vida privada, da honra e da imagem das pessoas
+  - Objetivos: <!-- fold -->
+    - Contribuir para a segurança do indivíduo, sociedade e Estado, por meio da CyberSec
+    - Fomentar atividades de pesquisa
+    - Aprimorar continuamente normativos
+    - Fomentar formação e qualificação dos recursos humanos
+    - Fortalecer cultura de CyberSec
+    - Aprimorar maturidade em CyberSec
+    - Orientar ações relacionadas:
+      - À gestão de SegInfo
+      - À SegInfo de infraestruturas críticas
+      - Tratemento de infos com restrição de acesso
+      - À proteção dos dados em conformidade com legislação
+      - À prevenção, tratamento e resposta a incidentes
+      - À gestão e operação de equipe do item acima
+      - Ao estabelecimento de níveis de maturidade
+      - Ao estabelecimento de processo transparente de comunicação
+  - Instrumentos: <!-- fold -->
+    - ENSEC-PJ
+    - PPINC-PJ (Protocolo de Prevenção de Incidentes Cibernéticos no âmbito do PJ)
+      - Alto nível em prevenção a incidentes
+    - PGCC-PJ (Protocolo de Gerenciamento de Crises Cibernéticas no âmbito do PJ)
+      - Contribuir para resiliência
+    - PIILC-PJ (Protocolo de Investigação para Ilícitos Cibernéticos no âmbito do PJ)
+      - Procedimentos para coleta e preservação de evidências
+      - Comuniicação fatos penalmente relevantes ao órgãos competentes
+    - Todos os protocolos devem ser revisados sempre que necessário por ato do Presi-CNJ
+    - Além dos protocolos, serão aprovados manuais por ato do Presi-CNJ
+    - Todos os órgão do PJ, exceto o STF, dem adotar e seguir os manuais e protocolos
+  - Se o incidente for considerado crise cibernética
+    - Acionamento do Comitê de Crise
+  - Cada Tribunal, exceto o STF, deve estabelecer: <!--fold-->
+    - A sua Política de SegInfo com ações:
+      - Gestão de ativos de Informação e Política de Controle de Acesso
+      - Criar controles de tratamento de infos c/ restrição de acesso
+      - Promover treinamento contínuo
+      - Promover certificação internacional aos profissionais
+      - Estabelecer requisitos mínimos de CyberSec nas contratações/acordos
+      - Utilizar recursos de criptografia
+      - Ampliar uso de assinatura eletrônica alinhado à legislação
+      - Comunicar e articular ações de SegInfo com a alta adm
+- Gestão de Usuários <!--fold-->
+  - Cara órgão do PJ, exceto o STF, deve implementar gerenciamento:
+    - de identidades
+    - de acessos
+    - de privilégios
+  - A gestão de usuários será disciplinada por ato do Presi-CNJ
+- PCESC-PJ <!--fold-->
+  - Instituição da Política de Cultura e Educação em Segurança Cibernética do PJ
+  - Disciplinada por ato do Presi-CNJ
+- Orçamento <!--fold-->
+  - Para as ações estratégicas deve ser destinado recursos orçamentários
+  - Os recursos devem ser discriminados com rubrica própria
+  
